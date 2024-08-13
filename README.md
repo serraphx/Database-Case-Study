@@ -23,3 +23,5 @@ Configure Wendy’s database access so she can:
 - Insert supplier detail information (rows) to the suppliers table.
 - No other permissions are to be available.
 
+## Part 3
+Write a paper for Bob which describes common vulnerabilities in databases, the impact they can have to business operations, and what types of security controls and prevention measures should be put in place to ensure the confidentiality, authentication, authorization, and Integrity of the database. Bob is a great home builder but he’s not a cybersecurity professional like you so you will need to write this paper in a specific, but non-technical manner.
