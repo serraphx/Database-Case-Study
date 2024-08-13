@@ -1,5 +1,20 @@
 # Database-Case-Study
 
+## Description
+In this case study, the assignment is to take an ERD and build tables following the rules set in the ERD. Then add users to the database and configure access controls for each of those users. Finally, write a short report describing common vulnerabilities of databases and recommendations for addressing those weaknesses.
+
+## Languages and Utilities Used
+
+- **Microsoft SQL**
+- **Sublime Text**
+- **Microsoft Word**
+
+
+## Environments Used </h2>
+
+- **VMWare**
+- **Windows 10**
+
 ## Part 1
 Using the Project ERD, develop create table (DDL) statements to create all the tables in the ERD. The table (DDL) statements need the following:
 1.	All the tables in the ERD.
