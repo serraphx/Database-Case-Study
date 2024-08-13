@@ -3,7 +3,7 @@ CREATE LOGIN Bob_Pulson
 WITH PASSWORD = 'MrF!x!tB0B';
 
 -- Create a user for Bob
-USE S21431143;
+USE Bob Database;
 CREATE USER Bob_P FOR LOGIN Bob_Pulson;
 
 -- Grant Bob the ability to view data in all tables
