@@ -29,7 +29,7 @@ CREATE LOGIN Wendy_Simpson
 WITH PASSWORD = '$id3kickWendy';
 
 -- Create a user for Wendy
-USE S21431143;
+USE Bob Database;
 CREATE USER Wendy_S FOR LOGIN Wendy_Simpson;
 
 -- Grant Wendy the ability to view all data in all tables
